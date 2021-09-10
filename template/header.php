@@ -1,0 +1,1 @@
+<img src="assets/img/banner-makhen.jpg" class="card-img" alt="...">

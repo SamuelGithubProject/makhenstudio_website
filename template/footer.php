@@ -1,0 +1,1 @@
+<p align="center">&#169; Copyright reserved.</p>
